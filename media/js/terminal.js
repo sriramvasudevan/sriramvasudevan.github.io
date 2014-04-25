@@ -187,10 +187,10 @@ function listSections(terminal) {
         terminal.write('%c(37)%n My name is Sriram V, and I\'m pursing a Bachelor\'s degree in Computer Science and Engineering at the Indian Institute of Technology, Madras. I\'m currently in my junior year of college.%n%n');
     }
     else if(folder=='/Courses') {
-        terminal.write('%c(80)%nTo be updated ...%n%n');
+        terminal.write('%c(80)%nSwitching Theory and Digital Design (CS2300)%nBasic Graph Theory (MA2130)%nProbability, Statistics and Stochastic proccesses (MA2400)%nDiscrete Mathematics for Computer Science (CS2100)%nLanguages, Machines and Computation (CS2200)%nPrinciples of Communication (CS2400)%nComputer Organization (CS2600)%nData Structures and Algorithms (CS2800)%nLanguage Translators (CS3300)%nOperating Systems (CS3500)%nParadigms of Programming (CS3100)%nIntroduction to Database Systems (CS3700)%nIntroduction to Machine Learning (CS5011)%nArtificial Intelligence (CS6380)%n%n');
     }
     else if(folder=='/Links') {
-        terminal.write('%c(80)%nTo be updated ...%n%n');
+        terminal.write('%c(80)%nFacebook - www.facebook.com/sriram.vasudevan%nTwitter - www.twitter.com/vasudevansriram%nGoogle+ - plus.google.com/+SriramV15%nGitHub - www.github.com/sriramvasudevan%nLinkedIn - www.linkedin.com/vasudevansriram%n%n');
     }
     else if(folder=='/Contact') {
         terminal.write('%c(34)%n You can drop me a mail at <username>@<hostname>.ac.in or at me@<myname>.com %n%n');
