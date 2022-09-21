@@ -1,6 +1,10 @@
 /* Copyright (C) Sriram Vasudevan 2015. */
 
 table#tlayout {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     border: none;
     border-collapse: separate;
     background: white;
@@ -173,12 +177,20 @@ div#footer {
 	font-size: small;
 	border-top: 1px solid #c0c0c0;
 	padding-top: 0.1em;
-	margin-top: 4.0em;
+	margin-top: 2.0em;
 	color: #c0c0c0;
 }
 
 div#footer a {
 	color: #80a0b0;
+}
+
+div#footer-social-line {
+	margin-top: 1.0em;
+}
+
+div#footer-social {
+	margin-top: 0.2em;
 }
 
 div#footer-text {
