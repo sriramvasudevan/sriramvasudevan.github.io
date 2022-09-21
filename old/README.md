@@ -1,3 +1,0 @@
-# Sriram V
-
-Personal website.
